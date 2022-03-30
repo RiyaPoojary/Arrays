@@ -1,2 +1,0 @@
-# Arrays
-Riya Poojary
